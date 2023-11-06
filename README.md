@@ -24,7 +24,7 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       <td>
         <p><strong>React Car Rental</strong></p>
         <p>
-          Client-server app with React + Redux frontend and Node.js + Express backend.<br>
+          Client-server app with React + Redux frontend and Node.js + Express backend<br>
           <strong>Features:</strong> Authorization via JWT, Account page, Localization, Feedbacks, Uploads compressing, Adaptive CSS, Modals, Popups, Selects, SVG sprite, etc.
         </p>
         <p>
@@ -46,8 +46,8 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
           Classic todo-list with various parameters, search / sort / drag&drop functionality and more
         </p>
         <p>
-          Stack: <code>TypeScript, React, Redux, AJAX, SCSS</code><br>
-          Libs: <code>Swiper, React Beautiful DnD, React Datepicker, dayjs</code>
+          <strong>Stack:</strong> <code>TypeScript, React, Redux, AJAX, SCSS</code><br>
+          <strong>Libs:</strong> <code>Swiper, React Beautiful DnD, React Datepicker, dayjs</code>
         </p>
         <a href="https://kaa88.alwaysdata.net/todolist_2">Live demo</a>
         |
@@ -63,7 +63,14 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>Business Grow</strong></p>
-        <p>Description</p>
+        <p>
+          Experimental one-screen (no scroll) MPA with any-device-scaled content<br>
+          <strong>Features:</strong> Consultation quiz, Feedback form, Menu, Modals, Selects, etc.<br>
+          Completed 4 pages
+        </p>
+        <p>
+          <strong>Stack & libs:</strong> <code>HTML, CSS, JavaScript, Swiper</code>
+        </p>
         <a href="https://kaa88.github.io/business_grow/dist">Live demo</a>
         |
         <a href="https://github.com/kaa88/business_grow">Repository</a>
@@ -75,7 +82,14 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>Teveres</strong></p>
-        <p>Description</p>
+        <p>
+          Corporation website<br>
+          <strong>Features:</strong> Custom video player, Forms, Menu, Modals, Sliders, Selects, etc.<br>
+          Completed 12 pages
+        </p>
+        <p>
+          <strong>Stack & libs:</strong> <code>HTML, CSS, JavaScript, Swiper</code>
+        </p>
         <a href="https://kaa88.github.io/portfolio/teveres">Live demo</a>
       </td>
     </tr>
@@ -85,7 +99,14 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>Books Online</strong></p>
-        <p>Description</p>
+        <p>
+          Book store MPA with product filters<br>
+          <strong>Features:</strong> Custom product list with pagination<br>
+          Completed 2 pages
+        </p>
+        <p>
+          <strong>Stack & libs:</strong> <code>HTML, CSS, JavaScript, Swiper</code>
+        </p>
         <a href="https://kaa88.github.io/portfolio/books_online">Live demo</a>
       </td>
     </tr>
@@ -95,7 +116,14 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>MagBlog</strong></p>
-        <p>Description</p>
+        <p>
+          MPA made with Gulp<br>
+          <strong>Features:</strong> Cool colored interface<br>
+          Completed 2 pages
+        </p>
+        <p>
+          <strong>Stack & libs:</strong> <code>HTML, CSS, JavaScript, Swiper</code>
+        </p>
         <a href="https://kaa88.github.io/portfolio/magblog">Live demo</a>
       </td>
     </tr>
@@ -105,7 +133,14 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>Safari Tour</strong></p>
-        <p>Description</p>
+        <p>
+          MPA made with Gulp<br>
+          <strong>Features:</strong> Interactive map<br>
+          Completed 2 pages
+        </p>
+        <p>
+          <strong>Stack & libs:</strong> <code>HTML, CSS, JavaScript, Swiper</code>
+        </p>
         <a href="https://kaa88.github.io/portfolio/safari_tours">Live demo</a>
       </td>
     </tr>
@@ -118,7 +153,7 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
       <td>
         <p><strong>Minesweeper game</strong></p>
-        <p>Just a Minesweeper game made from scratch</p>
+        <p>Just a Minesweeper game made from scratch. Compatible with desktop and touch devices.</p>
         <p><strong>Stack:</strong> <code>HTML, CSS, JavaScript</code></p>
         <a href="https://kaa88.github.io/game_minesweeper">Live demo</a>
         |
