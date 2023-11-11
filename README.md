@@ -46,8 +46,8 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
           Classic todo-list with various parameters, search / sort / drag&drop functionality and more
         </p>
         <p>
-          <strong>Stack:</strong> <code>TypeScript, React, Redux, AJAX, SCSS</code><br>
-          <strong>Libs:</strong> <code>Swiper, React Beautiful DnD, React Datepicker, dayjs</code>
+          <strong>Stack:</strong> <code>TypeScript, React, Redux, SCSS</code><br>
+          <strong>Libs:</strong> <code>Axios, Swiper, React Beautiful DnD, React Datepicker, dayjs</code>
         </p>
         <a href="https://kaa88.alwaysdata.net/todolist_2">Live demo</a>
         |
