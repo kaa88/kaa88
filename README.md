@@ -55,6 +55,24 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="https://kaa88.github.io/profile/img/portfolio/200x200_history_moments.png">
+      </td>
+      <td>
+        <p><strong>History moments</strong></p>
+        <p>
+          Interactive app with css/js animation
+        </p>
+        <p>
+          <strong>Stack:</strong> <code>TypeScript, React, SCSS</code><br>
+          <strong>Libs:</strong> <code>Swiper</code>
+        </p>
+        <a href="https://kaa88.github.io/test_only/">Live demo</a>
+        |
+        <a href="https://github.com/kaa88/test_only">Repository</a>
+      </td>
+    </tr>
+    <tr>
       <th colspan="2" align="left">HTML, CSS, JS</th>
     </tr>
     <tr>
