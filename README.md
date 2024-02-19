@@ -19,21 +19,20 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
     </tr>
     <tr>
       <td>
-        <img src="https://kaa88.github.io/profile/img/portfolio/200x270_react_car_rental.png">
+        <img src="https://kaa88.github.io/profile/img/portfolio/200x200_history_moments.png">
       </td>
       <td>
-        <p><strong>React Car Rental</strong></p>
+        <p><strong>History moments</strong></p>
         <p>
-          Client-server app with React + Redux frontend and Node.js + Express backend<br>
-          <strong>Features:</strong> Authorization via JWT, Account page, Localization, Feedbacks, Uploads compressing, Adaptive CSS, Modals, Popups, Selects, SVG sprite, etc.
+          Interactive app with css/js animation
         </p>
         <p>
-          <strong>Frontend stack:</strong> <code>JavaScript, React, Redux, React Router, Axios, Swiper, SCSS</code><br>
-          <strong>Backend stack:</strong> <code>Node.js, Express, Seqielize, MySQL, JWT</code>
+          <strong>Stack:</strong> <code>TypeScript, React, SCSS</code><br>
+          <strong>Libs:</strong> <code>Swiper</code>
         </p>
-        <a href="https://kaa88.alwaysdata.net/react_car_rental">Live demo</a>
+        <a href="https://kaa88.github.io/test_only/">Live demo</a>
         |
-        <a href="https://github.com/kaa88/react_car_rental">Repository</a>
+        <a href="https://github.com/kaa88/test_only">Repository</a>
       </td>
     </tr>
     <tr>
@@ -56,20 +55,21 @@ Here is my... profile, unexpectedly. So let me give you a brief introduction of 
     </tr>
     <tr>
       <td>
-        <img src="https://kaa88.github.io/profile/img/portfolio/200x200_history_moments.png">
+        <img src="https://kaa88.github.io/profile/img/portfolio/200x270_react_car_rental.png">
       </td>
       <td>
-        <p><strong>History moments</strong></p>
+        <p><strong>React Car Rental</strong></p>
         <p>
-          Interactive app with css/js animation
+          Client-server app with React + Redux frontend and Node.js + Express backend<br>
+          <strong>Features:</strong> Authorization via JWT, Account page, Localization, Feedbacks, Uploads compressing, Adaptive CSS, Modals, Popups, Selects, SVG sprite, etc.
         </p>
         <p>
-          <strong>Stack:</strong> <code>TypeScript, React, SCSS</code><br>
-          <strong>Libs:</strong> <code>Swiper</code>
+          <strong>Frontend stack:</strong> <code>JavaScript, React, Redux, React Router, Axios, Swiper, SCSS</code><br>
+          <strong>Backend stack:</strong> <code>Node.js, Express, Seqielize, MySQL, JWT</code>
         </p>
-        <a href="https://kaa88.github.io/test_only/">Live demo</a>
+        <a href="https://kaa88.alwaysdata.net/react_car_rental">Live demo</a>
         |
-        <a href="https://github.com/kaa88/test_only">Repository</a>
+        <a href="https://github.com/kaa88/react_car_rental">Repository</a>
       </td>
     </tr>
     <tr>
